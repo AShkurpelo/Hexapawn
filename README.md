@@ -1,5 +1,5 @@
 # Hexapawn
-University project. Hexapawn game
+Hexapawn game
 
 Computer logic realized by Alpha–beta pruning algorithm which is optimization of Minimax algorithm.
 
